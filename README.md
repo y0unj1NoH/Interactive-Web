@@ -1,6 +1,6 @@
 # Interactive Web
 
-## 1. Infinte grid
+## 1. Infinite grid
 
     - 설명: 알파카 사진들이 무한 그리드 형태로 배치되어 드래그할 수 있는 페이지
             (반응형으로 사진 크기 조절 및 로고 배경 추가)
